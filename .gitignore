@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+dist/
+.DS_Store
+
+# Secrets
+.env
+*.sqlite
+*.sqlite-journal
+
+# Editor files
+.vscode/
+.idea/
+*.swp
